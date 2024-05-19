@@ -1,0 +1,246 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+  color: unset;
+}
+
+ul{
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+  margin: 0;
+}
+
+ /* ============= TABS STYLE SHEET ============ */
+
+ @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
+
+ 
+ 
+ .Root {
+   height: 100vh;
+ }
+ 
+ .tabs_hd .Tabs {
+   height: 100%;
+   display: flex;
+ }
+ 
+ .tabs_hd  .TabList {
+   width: 10rem;
+   background: #E6E6E6;
+   height: 100vh;
+ }
+ 
+ .tabs_hd .TabPanel {
+   flex: 1;
+   display: none;
+   padding: 1.5rem 2rem;
+   background-color: #1e1e1e;
+ }
+ .tabs_hd .TabPanel.is-active {
+   display: block;
+ }
+ 
+ .tabs_hd .Button {
+   display: inline-block;
+   width: 100%;
+   padding: 1rem 2rem;
+   background: none;
+   border: none;
+   cursor: pointer;
+   font-family: inherit;
+   font-size: 18px;
+   font-weight: 500;
+   color: #101010;
+   text-align: left;
+ }
+ .tabs_hd  .Button:focus,
+ .tabs_hd .Button:hover {
+   outline: 0;
+   background: #d9d9d9;
+ }
+ .tabs_hd .Tab.is-active .Button {
+   background: #d9d9d9;
+ }
+
+ .tabs_hd ul{
+  padding: 0;
+  min-width: 300px;
+ }
+
+ .snr_s {
+  width: 200px;
+  padding: 10px 6px;
+  background-color: #333333;
+  color: #b3b2b2;
+ }
+
+ .table{
+  border-radius: 5px !important;
+ }
+
+ .table_scn td, .table_scn th{
+  color: #a9a9a9;
+ }
+
+ .table_scn table tr{
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  background-color: #c3c3c3;
+  color: #333333 !important;
+ }
+
+ .bottom_btns .button01{
+    background-color: #5cb85c;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-right: 20px;
+    color: #fff;
+ }
+ .bottom_btns .button02{
+  background-color: #4a9aba;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  margin-right: 20px;
+  color: #fff;
+}
+
+.bread_cumb span{
+  color: #fff;
+}
+
+.text_white{
+  color: #fff;
+}
+
+.add_scenario .form_hd{
+  background-color: #333333;
+  padding: 60px;
+  border-radius: 5px;
+}
+
+.add_scenario select,
+.add_scenario input{
+  /* min-width: 360px; */
+  padding: 6px 20px;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+}
+
+.btm_btns {
+  margin-top: 30px;
+}
+
+.btm_btns .add{
+background-color: #5cb85c;
+
+}
+
+.btm_btns button{
+color: #fff;
+padding: 10px 20px;
+border-radius: 5px;
+border: none;
+outline: none;
+margin-right: 20px;
+}
+
+.btm_btns .reset{
+  background-color: #e37933;
+}
+
+.btm_btns .back{
+  background-color: #4a9aba;
+}
+
+.form_hd select,
+.form_hd input{
+  background-color: #000;
+  color: #fff;
+  width: 100% !important;
+}
+
+.scenario_btn  button{
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  margin-right: 20px;
+}
+
+.scenario_btn .new_scenario{
+  background-color: #4a9aba;
+}
+.scenario_btn .add_scenario{
+  background-color: #5cb85c;
+}
+.scenario_btn .delete_all{
+  background-color: #e37933;
+}
+
+.table_scn table{
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.thead-dark tr th{
+  background-color: #101010 !important;
+  color: #fff;
+}
+
+.nbtns{
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+
+ /* ============= TABS STYLE SHEET END ============ */
+
+
+ .nav_scn{
+  min-width: 260px;
+ }
+
+ .navbar_scn ul{
+  padding: 0;
+  background-color: #c3c3c3;
+  height: 100vh;
+ }
+
+ .navbar_scn ul li{
+  list-style-type: none;
+  margin-bottom: 16px;
+ }
+ .navbar_scn ul li a{
+  text-decoration: none;
+  color: #101010;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 6px 12px;
+ }
+
+ .navbar_scn ul li a.active{
+  color: #4a9aba;
+ }
+
+ .add_vehicle,
+ .all_scenarios,
+ .right_b{
+  background-color: #1e1e1e;
+  height: 100vh;
+  overflow: hidden;
+ }
