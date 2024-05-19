@@ -40,7 +40,9 @@ For animation I have used Framer motion library.
 
 ![Screenshot 2024-05-16 212810](https://github.com/Ravikumar-07/vehicle-scenario-and-CRUD-operation/assets/140155480/06296852-8d2b-48d8-9e71-24361f197fdb)
 
-                                              **Figure 1: Add Scenarios Page**
+                                              
+                                              Figure 1: Add Scenarios Page
+                                              
 
 ![Screenshot 2024-05-16 212824](https://github.com/Ravikumar-07/vehicle-scenario-and-CRUD-operation/assets/140155480/7e8bf93a-81f2-46d6-88ea-c03643dea0fe)
 
