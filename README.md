@@ -18,7 +18,7 @@ The Vehicle have following fields:
 
 * Vehicle id
 
-&* Vehicle name
+* Vehicle name
 
 * Initial Position X
 
@@ -28,6 +28,6 @@ The Vehicle have following fields:
 
 * Direction (can have only Towards, Backwards, Upwards and Downwards).
 
-json-server is used for storing data use.
+node-server is used for storing data use.
 
 For animation I have used Framer motion library.
