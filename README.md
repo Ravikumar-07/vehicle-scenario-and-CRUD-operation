@@ -34,4 +34,4 @@ For animation I have used Framer motion library.
 
 # Live project Link
 
-<image src = ""C:\Users\ravik\OneDrive\Pictures\Screenshots\Screenshot 2024-05-19 200323.png"">
+<image src = "C:\Users\ravik\OneDrive\Pictures\Screenshots\Screenshot 2024-05-19 200323.png">
