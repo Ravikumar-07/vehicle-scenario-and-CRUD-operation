@@ -39,3 +39,5 @@ For animation I have used Framer motion library.
 ## Preview
 
 ![Screenshot 2024-05-16 212810](https://github.com/Ravikumar-07/vehicle-scenario-and-CRUD-operation/assets/140155480/06296852-8d2b-48d8-9e71-24361f197fdb)
+
+                                                        Figure 12: Add Scenarios Page
