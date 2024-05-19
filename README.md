@@ -32,6 +32,6 @@ node-server is used for storing data use.
 
 For animation I have used Framer motion library.
 
-### Live project Link
+### Live project 
 
-<image src = "C:\Users\ravik\OneDrive\Pictures\Screenshots\Screenshot 2024-05-19 200323.png">
+![Screenshot 2024-05-16 212810](https://github.com/Ravikumar-07/vehicle-scenario-and-CRUD-operation/assets/140155480/06296852-8d2b-48d8-9e71-24361f197fdb)
