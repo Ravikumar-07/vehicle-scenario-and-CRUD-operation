@@ -49,12 +49,16 @@ https://vehicle-scenario.netlify.app
   <br/>
   <b>Figure 2: All Scenarios Page</b>
 </p>
-<p align="center">
+  <br/>
+  <br/>
+  <p align="center">
   <img src="https://github.com/Ravikumar-07/vehicle-scenario-and-CRUD-operation/assets/140155480/5c13d866-65d3-4307-a4fb-1a1fa57d4993" alt="Add Vehicle Page"/>
   <br/>
   <b>Figure 3: Add Vehicle Page</b>
 </p>
-<p align="center">
+  <br/>
+  <br/>
+  <p align="center">
   <img src="https://github.com/Ravikumar-07/vehicle-scenario-and-CRUD-operation/assets/140155480/df800fd7-903b-440b-bdcc-d3d595fa5771" alt="Home Page"/>
   <br/>
   <b>Figure 4: Home Page</b>
