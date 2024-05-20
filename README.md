@@ -28,7 +28,7 @@ The Vehicle have following fields:
 
 * Direction (can have only Towards, Backwards, Upwards and Downwards).
 
-node-server is used for storing data use.
+Json-server is used for storing data use.
 
 For animation I have used Framer motion library.
 
@@ -64,4 +64,18 @@ https://vehicle-scenario.netlify.app
   <b>Figure 4: Home Page</b>
 </p>
 
-## 
+## Tool Used
+
+# FRONTEND
+
+* React
+  
+* CSS
+  
+* Framer motion
+
+# BACKEND
+
+* npm install
+  
+* Json sever
