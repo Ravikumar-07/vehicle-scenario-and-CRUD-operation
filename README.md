@@ -66,7 +66,7 @@ https://vehicle-scenario.netlify.app
 
 ## Tool Used
 
-# FRONTEND
+### FRONTEND
 
 * React
   
@@ -74,7 +74,7 @@ https://vehicle-scenario.netlify.app
   
 * Framer motion
 
-# BACKEND
+### BACKEND
 
 * npm install
   
