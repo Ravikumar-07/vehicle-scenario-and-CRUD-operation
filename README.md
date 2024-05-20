@@ -34,7 +34,7 @@ For animation I have used Framer motion library.
 
 ## Live project 
 
-
+https://vehicle-scenario.netlify.app
 
 ## Preview
 
